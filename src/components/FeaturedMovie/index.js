@@ -46,13 +46,13 @@ export default ({ item }) => {
                             href={`/watch/${item.id}`}
                             className="featured--watchbutton"
                         >
-                            ► Assistir
+                            ► Watch
                         </a>
                         <a
                             href={`/list/add/${item.id}`}
                             className="featured--mylistbutton"
                         >
-                            + Minha Lista
+                            + My List
                         </a>
                     </div>
                     <div className="featured--genres">
