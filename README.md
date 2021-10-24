@@ -49,7 +49,7 @@ npm start
 
 
 ### Website
-https://netflix-website-clone.herokuapp.com/
+https://netflix-clone-lucas-andrade.netlify.app/
 
 
 ### Screens
